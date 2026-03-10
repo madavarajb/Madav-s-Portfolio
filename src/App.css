@@ -1,0 +1,13 @@
+
+html, body {
+  height: auto;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    /* height:auto; */
+    /* background: #961B2B; */
+    font-family: "Comic Sans MS";
+}
